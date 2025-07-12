@@ -1,0 +1,9 @@
+{
+  "name": "analysis-function",
+  "version": "1.0.0",
+  "description": "Lambda function for AI-powered architecture analysis",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1490.0"
+  }
+}

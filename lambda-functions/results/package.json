@@ -1,0 +1,9 @@
+{
+  "name": "results-function",
+  "version": "1.0.0",
+  "description": "Lambda function for retrieving analysis results and rankings",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1490.0"
+  }
+}
